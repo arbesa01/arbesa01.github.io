@@ -1,0 +1,36 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+
+#banner {
+    margin: auto;
+    width: auto;
+    display: grid;
+    align-content: center;
+    text-align: center;
+    height: 300px;
+    background-image: url('https://img.freepik.com/foto-gratis/camino-pasando-parque_53876-15074.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1727913600&semt=ais_hybrid');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#contenido {
+    background-color: tan;
+    width: 400px;
+    margin: auto;
+    padding: 20px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+#form {
+    background-color: cadetblue;
+    margin: auto;
+    margin-top: 20px;
+    width: 200px;
+    text-align: center;
+}
+
